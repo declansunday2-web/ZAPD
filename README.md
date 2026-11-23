@@ -12,6 +12,7 @@ Open `index.html` in a browser to play.
 - The inventory shows the player, hand/chest/feet equipment slots, and nine misc item slots.
 - Press E near the pizzeria to pick up a delivery, and near a marked house to deliver it.
 - Deliver pizzas to earn money. The shop is marked SHOP in the northwest neighborhood.
-- Press E at the SHOP building to open the store menu. It sells the $250 gun (with 25 rounds), 25 round ammo packs for $25, and a heart heal for $50.
-- With the gun equipped, aim with the mouse and press Space to shoot. Ammo and heart heals are bought from the shop menu.
+- Press E at the SHOP building to open the store menu. It sells the $250 gun (with 25 rounds), 25 round ammo packs for $25, and a heart regen for $50. Purchases go into your misc inventory slots.
+- Press Tab to open inventory. Click a misc item to equip a gun, use an ammo pack or heart regen, or drop it. Click the hand slot to unequip or drop the equipped gun. Unequipped guns return to misc items.
+- With the gun equipped, aim with the mouse and press Space to shoot. Ammo packs add 25 rounds when used, up to the ammo limit. Heart regen restores one heart when used.
 - Without the gun, Space still punches nearby zombies.
