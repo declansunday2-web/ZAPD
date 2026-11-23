@@ -9,7 +9,8 @@ Open `index.html` in a browser to play.
 
 - Move with WASD or the arrow keys.
 - New runs begin inside the pizzeria beside the pizza stack. Press E there to pick up your first delivery.
-- Press Escape during a run to open the pause menu. Save stores your progress in this browser; Continue resumes it from the start or title menu. Settings adjusts music and sound effect volume. Main Menu returns to the title screen, where Start skips the opening cutscene.
+- The title menu's New Game button asks for your name, then starts a new run. Continue loads saved progress directly with the saved name.
+- Press Escape during a run to open the pause menu. Save stores your progress in this browser; Continue resumes it from the start or title menu. Settings adjusts music and sound effect volume. Main Menu returns to the title screen.
 - Press Tab to open the inventory; press Tab or Escape to close it.
 - The inventory shows the player, current hearts, hand/chest/feet equipment slots, and 36 misc item slots.
 - Press E near the pizzeria to enter. Inside, use E at the service counter to pick up a delivery, then E by the entrance to leave; the 20-second delivery timer starts when you exit with the pizza. Press E near a marked house to deliver it.
